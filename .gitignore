@@ -36,4 +36,5 @@ obj
 *.vscode
 
 build
+.svn
 
